@@ -360,6 +360,7 @@ p {
     text-align: center;
     border-left: 2px solid #fff;
     border-bottom: 2px solid #fff;
+    border-radius: 10px;
 }
 
 .contacto__form {
@@ -379,11 +380,16 @@ p {
 
 .input__text {
     padding: 1rem;
+    border-radius: 10px;
 }
 
 .btn--contacto {
     font-size: 1.6rem;
     font-weight: bold;
+}
+
+textarea {
+    border-radius: 10px;
 }
 
 
