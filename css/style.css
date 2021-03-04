@@ -412,7 +412,7 @@ p {
 
 .adorno {
     background: radial-gradient(155% 155% at 50% 50%, rgba(40, 234, 232, 0.4) 0%, rgba(40, 234, 232, 0) 28.86%);
-    backdrop-filter: blur(199px);
+    /* backdrop-filter: blur(199px); */
     position: absolute;
     width: 400px;
     height: 400px;
@@ -422,7 +422,6 @@ p {
 
 .adorno2 {
     background: radial-gradient(155% 155% at 50% 50%, rgba(40, 234, 232, 0.4) 0%, rgba(40, 234, 232, 0) 28.86%);
-    backdrop-filter: blur(199px);
     position: absolute;
     width: 400px;
     height: 400px;
@@ -432,7 +431,6 @@ p {
 
 .adorno3 {
     background: radial-gradient(155% 155% at 50% 50%, rgba(40, 234, 232, 0.4) 0%, rgba(40, 234, 232, 0) 28.86%);
-    backdrop-filter: blur(199px);
     position: absolute;
     width: 400px;
     height: 400px;
@@ -442,7 +440,6 @@ p {
 
 .adorno4 {
     background: radial-gradient(155% 155% at 50% 50%, rgba(40, 234, 232, 0.4) 0%, rgba(40, 234, 232, 0) 28.86%);
-    backdrop-filter: blur(199px);
     position: absolute;
     width: 400px;
     height: 400px;
@@ -452,7 +449,6 @@ p {
 
 .adorno5 {
     background: radial-gradient(50% 50% at 50% 50%, rgba(191, 53, 142, 0.5) 0%, rgba(191, 53, 142, 0) 100%);
-    backdrop-filter: blur(199px);
     position: absolute;
     width: 400px;
     height: 400px;
