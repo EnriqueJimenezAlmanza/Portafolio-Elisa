@@ -457,7 +457,7 @@ textarea {
     position: absolute;
     width: 50%;
     height: 400px;
-    left: 0;
+    left: -20%;
     top: 68px;
 }
 
